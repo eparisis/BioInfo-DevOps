@@ -76,4 +76,6 @@ Here we list some example pipelines that you can look into to get an idea of how
 
 **_Overkill Pipelines_**
 
-
+| Pipeline | Description | Link |
+|:------:|:-------------:|:-------------:|
+|  CDCgov/phoenix | 🔥🐦🔥PHoeNIx: a platform agnostic pipeline for healthcare-associated and antimicrobial resistant pathogens  | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDCgov/phoenix) |
