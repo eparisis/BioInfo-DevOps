@@ -95,11 +95,24 @@ Code and data tracking is a crucial part of any bioinformatics project.
 
 </div>
 
-Other resources:
+### Other resources:
 
 | Resource | Description | Link |
 |:------:|:-------------:|:-----------:|
 | Git and GitHub Roadmap | Interactive learning path for Git and GitHub | [![Roadmap.sh](https://img.shields.io/badge/Roadmap-000000?style=for-the-badge&logo=roadmap-sh&logoColor=white)](https://roadmap.sh/git-github) |
+
+### <div align="center"> 💼 Project Tracking</div>
+
+<div align="center">
+
+Project tracking is a crucial part of any bioinformatics project. It helps you keep track of your tasks, issues, and progress. The main tools for project tracking are issue trackers like `Jira`, `GitHub Issues`. They allow you to create tasks, assign them to team members, and track their progress.
+
+| Tool | Description | Resources |
+|:------:|:-------------:|:-----------:|
+| Jira | A project management tool that helps you plan, track, and manage your projects. | [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira/guides/getting-started/introduction#dig-into-specific-features) |
+| GitHub Issues | A project management tool that allows you to track issues and tasks in your GitHub repositories. | [![GitHub Issues](https://img.shields.io/badge/GitHub_Issues-121013?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/issues) |
+| GitHub Projects | A project management tool that allows you to track issues and tasks in your GitHub repositories using Kanban boards. | [![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-121013?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) |
+
 
 ## <div align="center"> ♻️ Code environments and containers</div>
 
